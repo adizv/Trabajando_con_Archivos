@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trabajando con Archivos</string>
+    <string name="hint_text">Write a text</string>
+    <string name="button_write_extern">Write Extern</string>
+    <string name="button_write_intern">Write intern</string>
+    <string name="button_read_extern">Read Extern</string>
+    <string name="button_read_intern">Read Intern</string>
+    <string name="message_ok">Value has been written</string>
+    <string name="message_no">Value has not been written</string>
+    <string name="read_ok">""File without content""</string>
+    <string name="read_no">File could not be read</string>
+    <string name="file_name">archivo.txt</string>
+</resources>
